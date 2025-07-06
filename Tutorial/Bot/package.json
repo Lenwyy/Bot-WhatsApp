@@ -10,7 +10,7 @@
     },
 
     "dependencies": {
-        "baileys": "latest",
+        "baileys": "6.7.17",
         "axios": "^1.4.0",
         "chalk": "^4.1.2",
         "pino": "^8.14.1",
